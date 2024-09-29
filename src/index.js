@@ -16,7 +16,11 @@ root.render(
         <a href="https://github.com/Konnichiwaitsnahoko/weather-react">
           GitHub
         </a>{" "}
-        and hosted on Netlify.
+        and hosted on{" "}
+        <a href="https://66f9aabed3552148a0e5536f--celebrated-paletas-0d51a2.netlify.app/">
+          Netlify
+        </a>
+        .
       </p>
     </div>
   </React.StrictMode>
